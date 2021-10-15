@@ -1,1 +1,1 @@
-echo "Hello initial commit"
+echo "Hello second commit"
